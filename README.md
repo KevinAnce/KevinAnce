@@ -33,7 +33,7 @@ Here are some of the tools and technologies that I use in my projects:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;">
   </a>
   <a href="https://insomnia.rest/" rel="nofollow">
-    <img src="https://www.vectorlogo.zone/logos/getinsomnia/getinsomnia-icon.svg" alt="insomnia" width="40" height="40" style="max-width: 100%;">
+    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40" style="max-width: 100%;">
   </a>
   <a href="https://www.linux.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
